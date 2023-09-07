@@ -13,13 +13,19 @@ MonoBehaviour:
   m_Name: ClothesDatabase
   m_EditorClassIdentifier: 
   clothes:
-  - image: {fileID: 971246541, guid: fa4d398d329ede2449ff4a6eade47258, type: 3}
-    price: 12
-  - image: {fileID: -1275788201, guid: fa4d398d329ede2449ff4a6eade47258, type: 3}
-    price: 5852
-  - image: {fileID: -1818847393, guid: fa4d398d329ede2449ff4a6eade47258, type: 3}
-    price: 453
-  - image: {fileID: -1188971548, guid: fa4d398d329ede2449ff4a6eade47258, type: 3}
-    price: 421
-  - image: {fileID: 647559526, guid: fa4d398d329ede2449ff4a6eade47258, type: 3}
-    price: 45
+  - image: {fileID: 21300000, guid: 47e2d61b2177cef4d9b72308247e775f, type: 3}
+    price: 50
+  - image: {fileID: 21300000, guid: 9737461d88073ca4f99fc0b9a88e48f5, type: 3}
+    price: 50
+  - image: {fileID: 21300000, guid: 5b8b3f374e7ff804bbf388d6187447b7, type: 3}
+    price: 50
+  - image: {fileID: 21300000, guid: 57d5f13203eb99240a791577d81479f8, type: 3}
+    price: 50
+  - image: {fileID: 21300000, guid: ce08ad77610992643a379203c2860afb, type: 3}
+    price: 50
+  - image: {fileID: 21300000, guid: f29ad161689c62c45bf9581989a72f7b, type: 3}
+    price: 50
+  - image: {fileID: 21300000, guid: de69045a855dfb145b22bf86134b69b3, type: 3}
+    price: 50
+  - image: {fileID: 21300000, guid: 055a458ac989eef498de8d098ff4fa30, type: 3}
+    price: 50

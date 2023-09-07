@@ -13,9 +13,13 @@ MonoBehaviour:
   m_Name: PetDatabase
   m_EditorClassIdentifier: 
   pets:
-  - image: {fileID: -1900044937, guid: fa4d398d329ede2449ff4a6eade47258, type: 3}
-    price: 421
-  - image: {fileID: -1183265441, guid: fa4d398d329ede2449ff4a6eade47258, type: 3}
-    price: 123
-  - image: {fileID: -921565464, guid: fa4d398d329ede2449ff4a6eade47258, type: 3}
-    price: 1
+  - image: {fileID: 21300000, guid: 1abafc5c69a65cf49a52dce23972b871, type: 3}
+    price: 100
+  - image: {fileID: 21300000, guid: cbb324c2ead8d1f4d8e0d3f364558428, type: 3}
+    price: 100
+  - image: {fileID: 21300000, guid: 3b78d1ae825718241aacc9bc1fc82329, type: 3}
+    price: 100
+  - image: {fileID: 21300000, guid: 6b98193cf1e3b934da9852248fe10668, type: 3}
+    price: 100
+  - image: {fileID: 21300000, guid: f74bfd5570b63234d921ef96759d50d6, type: 3}
+    price: 100

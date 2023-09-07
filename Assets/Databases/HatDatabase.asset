@@ -13,7 +13,19 @@ MonoBehaviour:
   m_Name: HatDatabase
   m_EditorClassIdentifier: 
   hats:
-  - image: {fileID: -1198915615, guid: fa4d398d329ede2449ff4a6eade47258, type: 3}
-    price: 10
-  - image: {fileID: -1426429100, guid: fa4d398d329ede2449ff4a6eade47258, type: 3}
+  - image: {fileID: 21300000, guid: d8f58aafd0a7fa24aaafbc09dfc060fb, type: 3}
+    price: 20
+  - image: {fileID: 21300000, guid: 1bb17e363a15a8f44943dadac0434907, type: 3}
+    price: 20
+  - image: {fileID: 21300000, guid: 86ebf3153c9cc0542a7af34436a1ad76, type: 3}
+    price: 20
+  - image: {fileID: 21300000, guid: 2a261277c0924494abdd6e3477aa9128, type: 3}
+    price: 20
+  - image: {fileID: 21300000, guid: 11928434147ee2447bbdb48d580fda72, type: 3}
+    price: 20
+  - image: {fileID: 21300000, guid: d65ec441a30a4594a8616a3d08fa0f7f, type: 3}
+    price: 20
+  - image: {fileID: 21300000, guid: eec9f8605a2d912499ba36bdb417d62d, type: 3}
+    price: 20
+  - image: {fileID: 21300000, guid: 1b956e17c51eda74885cec21d1d2feb4, type: 3}
     price: 20
