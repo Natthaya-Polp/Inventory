@@ -4,6 +4,7 @@ using UnityEngine.Events;
 using UnityEngine.UI;
 using UnityEngine;
 using TMPro;
+using System;
 
 public class ItemList : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class ItemList : MonoBehaviour
 
     [SerializeField] Button itemButton;
 	[SerializeField] Outline itemOutline;
+
 
     public void SetItemPosition (Vector2 pos)
 	{
@@ -35,6 +37,7 @@ public class ItemList : MonoBehaviour
 		itemButton.onClick.RemoveAllListeners ();
 		itemButton.onClick.AddListener (() => action.Invoke (itemIndex));
 	}
+
 
 	public void SelectItem ()
 	{

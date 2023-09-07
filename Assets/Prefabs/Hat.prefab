@@ -89,6 +89,7 @@ GameObject:
   - component: {fileID: 8143729448082885920}
   - component: {fileID: 5075402751840216861}
   - component: {fileID: 993363654513117169}
+  - component: {fileID: 3325072113619352332}
   - component: {fileID: 5603193660401908266}
   m_Layer: 5
   m_Name: Hat
@@ -217,6 +218,19 @@ MonoBehaviour:
   m_EffectColor: {r: 1, g: 0.7581967, b: 0, a: 1}
   m_EffectDistance: {x: 1.5, y: -1.5}
   m_UseGraphicAlpha: 1
+--- !u!114 &3325072113619352332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5476132701264691900}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9fadef3ff04a3649a5b62694e287cb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemInfoPanel: {fileID: 0}
 --- !u!114 &5603193660401908266
 MonoBehaviour:
   m_ObjectHideFlags: 0
