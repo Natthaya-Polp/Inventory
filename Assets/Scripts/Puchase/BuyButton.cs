@@ -13,11 +13,13 @@ public class BuyButton : MonoBehaviour
     [SerializeField] private Text coinsText;
 
     public GameObject outOfMoney;
+    
 
     private void Start()
     {
         currentCoins = startingCoins;
         UpdateCoinsDisplay();
+
     }
 
     public void LoseCoins(float _buy)
@@ -29,6 +31,7 @@ public class BuyButton : MonoBehaviour
         {
             outOfMoney.SetActive(true);
         }
+        
     }
 
     public void OnButtonClick()
@@ -40,4 +43,7 @@ public class BuyButton : MonoBehaviour
     {
         coinsText.text = " " + currentCoins.ToString();
     }
+
+  
+
 }
