@@ -6,8 +6,10 @@ using UnityEngine.UI;
 public class ChooseButton : MonoBehaviour
 {
     public GameObject itemInfoPanel;
+    
 
     public void OnButtonClick(){
         itemInfoPanel.SetActive(true);
+        
     }
 }
